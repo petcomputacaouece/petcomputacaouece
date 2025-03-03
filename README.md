@@ -5,7 +5,7 @@
 O PET Computação UECE é um programa do Governo Federal que visa promover a formação acadêmica e profissional de estudantes, integrando ensino, pesquisa e extensão. Nosso objetivo é desenvolver projetos que impactem positivamente a comunidade acadêmica e externa, oferecendo oportunidades de aprendizado e desenvolvimento.
 
 ## 🌟 Projetos em Destaque
-🔹 UECEFood – 
+🔹 UECEFood – Programa que em simula um aplicativo de delivery da UECE.
 
 ## 📬 Contato
 ✉️ pet.computacao@uece.br
