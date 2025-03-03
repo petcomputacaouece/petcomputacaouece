@@ -1,16 +1,14 @@
-## Hi there 👋
+###🎓 PET Computação UECE
+📚 Educação | Pesquisa | Extensão
 
-<!--
-**petcomputacaouece/petcomputacaouece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 Sobre o PET
+O PET Computação UECE é um programa do Governo Federal que visa promover a formação acadêmica e profissional de estudantes, integrando ensino, pesquisa e extensão. Nosso objetivo é desenvolver projetos que impactem positivamente a comunidade acadêmica e externa, oferecendo oportunidades de aprendizado e desenvolvimento.
 
-Here are some ideas to get you started:
+##🌟 Projetos em Destaque
+🔹 UECEFood – 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##📬 Contato
+✉️ pet.computacao@uece.br
+
+💻 GitHub Team
+Membros do PET podem contribuir diretamente para os repositórios.
