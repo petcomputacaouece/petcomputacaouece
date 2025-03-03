@@ -1,4 +1,4 @@
-### 🎓 PET Computação UECE
+# 🎓 PET Computação UECE
 📚 Educação | Pesquisa | Extensão
 
 📌 Sobre o PET
